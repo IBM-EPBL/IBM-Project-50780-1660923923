@@ -4,7 +4,7 @@ my_list = [12,564,2,45,245,78,13,57,34,53,89,76,367]
 my_list.insert(3,514)
 
 #print the list
-print(my_list) 
+print(my_list)
 
 # delete the first occurrence of the integer
 my_list.remove(845)
