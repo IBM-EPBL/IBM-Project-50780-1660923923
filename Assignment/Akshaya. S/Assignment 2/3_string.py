@@ -1,4 +1,4 @@
-# let the string be
+ # let the string be
 
 string = "The quick brown fox jumps over the lazy"
 
