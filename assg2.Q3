@@ -1,8 +1,0 @@
-a="hello world"
-b="to everyone"
-c=a+b    #concat
-print(c)
-d=a[:5]  #slicing
-print(d)
-e=b[::-1]  #reverse
-print(e)
