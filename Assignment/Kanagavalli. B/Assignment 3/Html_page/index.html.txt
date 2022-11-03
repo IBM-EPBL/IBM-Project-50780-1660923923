@@ -1,0 +1,15 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Website Layout | CodingLab</title>
+    <link rel="stylesheet" href="https://valgin01.s3.jp-tok.cloud-object-storage.appdomain.cloud/style.css">
+</head>
+<body>
+  <img src="https://b7-1A3E.s3.jp-tok.cloud-object-storage.appdomain.cloud/img1.jpg"/>
+<img src="https://b7-1A3E.s3.jp-tok.cloud-object-storage.appdomain.cloud/img2.jpg"/>
+<img src="https://b7-1A3E.s3.jp-tok.cloud-object-storage.appdomain.cloud/img3.jpg"/>
+<img src="https://b7-1A3E.s3.jp-tok.cloud-object-storage.appdomain.cloud/img4.png"/>
+<img src="https://b7-1A3E.s3.jp-tok.cloud-object-storage.appdomain.cloud/img5.jpg"/>  
+</body>
+</html>
